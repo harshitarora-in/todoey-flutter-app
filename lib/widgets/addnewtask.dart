@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:todoey/models/task.dart';
 
 class AddNewTask extends StatelessWidget {
   @override
